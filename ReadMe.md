@@ -24,13 +24,13 @@ Consider a CSV input file.
 I had no time to refine the solution. It works yet most of the elements may be easily generified (e.g., sort any kind of objects; list of generic type of data for the concurrent data).
 I had no time to refat
 
-###Few issues that were not handled because of lack of time
+### Few issues that were not handled because of lack of time
 1. Deletion of tmp folder doesn't work.
 2. Improving exception handling and logs.
 3. Refactoring to make the code cleaner and more generic.
 4. no validations on inputs.
 
-###Run instruction
+### Run instruction
 Change the constants in MyApplication (or the input parameters in the main).
 Verify the workspace folder and the output file do not exist.
 Run.
