@@ -1,4 +1,5 @@
-# Sorting exercise
+# Concurrent mergesort with k parts and limited cache
+## Sorting exercise
 ## Motivation
 
 Share:
@@ -22,7 +23,6 @@ Consider a CSV input file.
 
 ## Disclaimer
 I had no time to refine the solution. It works yet most of the elements may be easily generified (e.g., sort any kind of objects; list of generic type of data for the concurrent data).
-I had no time to refat
 
 ### Few issues that were not handled because of lack of time
 1. Deletion of tmp folder doesn't work.
